@@ -2,5 +2,5 @@
 Source code for the PVP mod created by LichGroup
 
 Contributors
-@thetrueoneshots
+@github/thetrueoneshots
 @lockmanipulator
