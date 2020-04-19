@@ -9,4 +9,4 @@ Download CubeModLoader.fip from https://github.com/ChrisMiuchiz/Cube-World-Mod-L
 * [thetrueoneshots](https://github.com/thetrueoneshots "thetrueoneshots")
 * [LockManipulator](https://github.com/LockManipulator "LockManipulator")
 
-<sup>*Lich Group owned and operated by Nichiren and Lock</sup>
+<sup>*Lich Group owned and operated by Nichiren (thetrueoneshots) and Lock (LockManipulator)</sup>
